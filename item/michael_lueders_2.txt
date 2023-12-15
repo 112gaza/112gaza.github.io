@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/e7d3bab42d9af29d.css","style",{"crossOrigin":""}]
-0:["bq6KWxlocld_dPPbR2qQL",[[["",{"children":["(plattform)",{"children":["item",{"children":[["slug","michael_lueders_2","d"],{"children":["__PAGE__?{\"slug\":\"michael_lueders_2\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["vVuZYD7S4dQzsfn3bO8T7",[[["",{"children":["(plattform)",{"children":["item",{"children":[["slug","michael_lueders_2","d"],{"children":["__PAGE__?{\"slug\":\"michael_lueders_2\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/_next/static/css/455380e8d74e6160.css","style",{"crossOrigin":""}]
 6:HL["/_next/static/css/f5b98a482afd7fc6.css","style",{"crossOrigin":""}]
 7:I[6954,[],""]
