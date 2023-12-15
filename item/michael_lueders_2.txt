@@ -1,12 +1,12 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/e7d3bab42d9af29d.css","style",{"crossOrigin":""}]
-0:["Z_M6hx9frCsjrcq7TtvYI",[[["",{"children":["(plattform)",{"children":["item",{"children":[["slug","michael_lueders_2","d"],{"children":["__PAGE__?{\"slug\":\"michael_lueders_2\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["5aFfm8M1LUf74nAHrnJWy",[[["",{"children":["(plattform)",{"children":["item",{"children":[["slug","michael_lueders_2","d"],{"children":["__PAGE__?{\"slug\":\"michael_lueders_2\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/_next/static/css/455380e8d74e6160.css","style",{"crossOrigin":""}]
 6:HL["/_next/static/css/f5b98a482afd7fc6.css","style",{"crossOrigin":""}]
 7:I[6954,[],""]
 8:I[7264,[],""]
-9:I[8326,["454","static/chunks/454-e2bacf848a72a5c3.js","146","static/chunks/app/(plattform)/layout-71f370687275d21d.js"],""]
-10:I[3994,["454","static/chunks/454-e2bacf848a72a5c3.js","146","static/chunks/app/(plattform)/layout-71f370687275d21d.js"],""]
+9:I[8326,["454","static/chunks/454-e2bacf848a72a5c3.js","146","static/chunks/app/(plattform)/layout-49a9cd6c5b6571f9.js"],""]
+10:I[3994,["454","static/chunks/454-e2bacf848a72a5c3.js","146","static/chunks/app/(plattform)/layout-49a9cd6c5b6571f9.js"],""]
 a:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
 b:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
 c:{"display":"inline-block"}
