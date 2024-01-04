@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/e7d3bab42d9af29d.css","style",{"crossOrigin":""}]
-0:["4MLk5FlNJgWqdZPJSuYKX",[[["",{"children":["(plattform)",{"children":["i",{"children":[["slug","james_elder","d"],{"children":["__PAGE__?{\"slug\":\"james_elder\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["F5bSTGCZKbjm18C0jclmF",[[["",{"children":["(plattform)",{"children":["i",{"children":[["slug","james_elder","d"],{"children":["__PAGE__?{\"slug\":\"james_elder\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7d3bab42d9af29d.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/_next/static/css/455380e8d74e6160.css","style",{"crossOrigin":""}]
 6:HL["/_next/static/css/7bb45428d05a612e.css","style",{"crossOrigin":""}]
 7:I[3994,["326","static/chunks/326-a06d0f6539a38783.js","994","static/chunks/994-1619e31bc8ff61a8.js","146","static/chunks/app/(plattform)/layout-7178878a70e2c22f.js"],""]
